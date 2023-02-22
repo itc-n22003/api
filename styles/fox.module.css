@@ -1,0 +1,21 @@
+.back {
+    text-align: center;
+    background-color: #E5D089;
+}
+
+.image {
+    max-width: 1280px;
+    width: 80%;
+}
+
+.loading {
+    background-color: #E5D089;
+    padding: 100px;
+}
+
+.message {
+    color: #905847;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}

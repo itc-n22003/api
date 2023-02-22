@@ -1,0 +1,18 @@
+.outer {
+    background-color: #E5D089;
+    text-align: center;
+}
+
+.btn {
+    background-color: #905847;
+    padding: 15px;
+    border: none;
+    margin: 40px 0;
+    border-radius: 20px;
+}
+
+.text {
+    color: #E5D089;
+    font-size: 2rem;
+    font-weight: bold;
+}
